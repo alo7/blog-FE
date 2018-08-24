@@ -19,3 +19,6 @@
 ### 微信相关
 
 ### 前端工程化
+
+### 前端性能优化和监控
+1.[Javascript集成Sentry](https://github.com/alo7/blog-FE/issues/1)
