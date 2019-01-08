@@ -21,4 +21,10 @@
 ### 前端工程化
 
 ### 前端性能优化和监控
-1.[Javascript集成Sentry](https://github.com/alo7/blog-FE/issues/1)
+1. [Javascript集成Sentry](https://github.com/alo7/blog-FE/issues/1)
+
+### 其他
+1. [Elasticsearch搜索-基本搜索(第一章)](https://github.com/alo7/blog-FE/issues/2)
+2. [Elasticsearch搜索-全文查询(第二章)](https://github.com/alo7/blog-FE/issues/3)
+3. [Elasticsearch搜索-词项查询(第三章)](https://github.com/alo7/blog-FE/issues/4)
+4. [Elasticsearch搜索-复合查询(第四章)](https://github.com/alo7/blog-FE/issues/5)
