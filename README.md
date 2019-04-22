@@ -8,6 +8,8 @@
 
 ### javascript
 
+1. [聊聊RxJS中的错误重试](https://github.com/alo7/blog-FE/issues/7)
+
 ### css
 
 ### react
@@ -15,6 +17,10 @@
 ### vue
 
 ### electron
+
+### NodeJs
+
+1. [通过Webkit远程调试协议监听网页崩溃](https://github.com/alo7/blog-FE/issues/8)
 
 ### 微信相关
 
