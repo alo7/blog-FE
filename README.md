@@ -9,6 +9,7 @@
 ### javascript
 
 1. [聊聊RxJS中的错误重试](https://github.com/alo7/blog-FE/issues/7)
+2. [Webm进度条问题分析与解决](https://github.com/alo7/blog-FE/issues/10)
 
 ### css
 
