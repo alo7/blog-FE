@@ -9,6 +9,7 @@
 ### javascript
 
 1. [聊聊RxJS中的错误重试](https://github.com/alo7/blog-FE/issues/7)
+2. [Webm进度条问题分析与解决](https://github.com/alo7/blog-FE/issues/10)
 
 ### css
 
@@ -34,3 +35,4 @@
 2. [Elasticsearch搜索-全文查询(第二章)](https://github.com/alo7/blog-FE/issues/3)
 3. [Elasticsearch搜索-词项查询(第三章)](https://github.com/alo7/blog-FE/issues/4)
 4. [Elasticsearch搜索-复合查询(第四章)](https://github.com/alo7/blog-FE/issues/5)
+5. [基于Gitlab CI的上线时间校验](https://github.com/alo7/blog-FE/issues/12)
