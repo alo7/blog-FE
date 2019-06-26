@@ -30,9 +30,14 @@
 ### 前端性能优化和监控
 1. [Javascript集成Sentry](https://github.com/alo7/blog-FE/issues/1)
 
-### 其他
+### 运维
+
+#### CI/CD
+1. [基于Gitlab CI的上线时间校验](https://github.com/alo7/blog-FE/issues/12)
+2. [gitlab-runner服务注册及任务捕获原理](https://github.com/alo7/blog-FE/issues/13)
+
+#### Elasticsearch
 1. [Elasticsearch搜索-基本搜索(第一章)](https://github.com/alo7/blog-FE/issues/2)
 2. [Elasticsearch搜索-全文查询(第二章)](https://github.com/alo7/blog-FE/issues/3)
 3. [Elasticsearch搜索-词项查询(第三章)](https://github.com/alo7/blog-FE/issues/4)
 4. [Elasticsearch搜索-复合查询(第四章)](https://github.com/alo7/blog-FE/issues/5)
-5. [基于Gitlab CI的上线时间校验](https://github.com/alo7/blog-FE/issues/12)
