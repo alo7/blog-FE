@@ -38,6 +38,10 @@
 3. [Elasticsearch搜索-词项查询(第三章)](https://github.com/alo7/blog-FE/issues/4)
 4. [Elasticsearch搜索-复合查询(第四章)](https://github.com/alo7/blog-FE/issues/5)
 
+#### Kubernetes
+
+1. [基于任务量进行k8s集群的灵活调度处理](https://github.com/alo7/blog-FE/issues/19)
+
 #### Other
 
 1. [从fdk_aac编码器到自动静态编译FFmpeg](https://github.com/alo7/blog-FE/issues/15)
