@@ -10,7 +10,7 @@
 
 ### 前端
 
-#### javascript
+#### JavaScript
 
 1. [聊聊RxJS中的错误重试](https://github.com/alo7/blog-FE/issues/7)
 2. [Webm进度条问题分析与解决](https://github.com/alo7/blog-FE/issues/10)
@@ -24,7 +24,13 @@
 
 1. [Javascript集成Sentry](https://github.com/alo7/blog-FE/issues/1)
 
-## 运维
+### 安全
+
+#### Web安全
+
+1. [Web安全概览](https://github.com/alo7/blog-FE/issues/21)
+
+### 运维
 
 #### CI/CD
 
