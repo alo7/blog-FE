@@ -12,17 +12,18 @@
 
 #### JavaScript
 
-1. [聊聊RxJS中的错误重试](https://github.com/alo7/blog-FE/issues/7)
-2. [Webm进度条问题分析与解决](https://github.com/alo7/blog-FE/issues/10)
-3. [('b' + 'a' + + 'a' + 'a').toLowerCase()输出banana的剖析](https://github.com/alo7/blog-FE/issues/17)
+1. [Javascript集成Sentry](https://github.com/alo7/blog-FE/issues/1)
+2. [聊聊RxJS中的错误重试](https://github.com/alo7/blog-FE/issues/7)
+3. [Webm进度条问题分析与解决](https://github.com/alo7/blog-FE/issues/10)
+4. [('b' + 'a' + + 'a' + 'a').toLowerCase()输出banana的剖析](https://github.com/alo7/blog-FE/issues/17)
 
 #### NodeJs
 
 1. [通过Webkit远程调试协议监听网页崩溃](https://github.com/alo7/blog-FE/issues/8)
 
-#### 前端性能优化和监控
+#### Electron
 
-1. [Javascript集成Sentry](https://github.com/alo7/blog-FE/issues/1)
+1. [Electron App 在 MacOS 下 申请摄像头及麦克风权限踩坑指南](https://github.com/alo7/blog-FE/issues/23)
 
 ### 安全
 
