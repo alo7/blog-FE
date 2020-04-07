@@ -52,3 +52,7 @@
 #### Other
 
 1. [从fdk_aac编码器到自动静态编译FFmpeg](https://github.com/alo7/blog-FE/issues/15)
+
+### Chromium
+
+1. [macOS 10.15 下载及编译 Chromium](https://github.com/alo7/blog-FE/issues/25)
